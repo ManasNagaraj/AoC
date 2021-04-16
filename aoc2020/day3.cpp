@@ -1,3 +1,8 @@
+/*i got bored by the time i reached second star the boredom has proportinately affected the quality of code for the 
+second star 
+
+fuck this is boring*/
+
 #include <iostream>
 #include <fstream>
 #include <vector>
